@@ -10,7 +10,7 @@ import android.content.DialogInterface;
 public class MyAlert {
 
 
-    public void myDialod(Context context,
+    public void myDialog(Context context,
                          String strTitle,
                          String strMessage) {
         AlertDialog.Builder builder = new AlertDialog.Builder(context);
